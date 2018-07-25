@@ -1,0 +1,8 @@
+{
+  "name": "PicShare",
+  "app_id": "6d8f62a9",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
